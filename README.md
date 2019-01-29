@@ -7,6 +7,6 @@ response. Regression is used in a massive number of applications ranging from pr
 usage in high-performance computing, to analyzing which regulators are important for gene expression. 
 
 We will create a model that predict a continuous value (price) from input features (lotsize, number of bedrooms 
-,...). The dataset can be downloaded from <a href="https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Housing.csv">here</a> Housing Data.
+,...). The dataset can be downloaded from <a href="https://vincentarelbundock.github.io/Rdatasets/csv/Ecdat/Housing.csv">here</a>.
 
 
